@@ -34,3 +34,4 @@ contract Vault
         // Do the sending
         TokenInteract.transfer(token, to, amount);
     }
+}
