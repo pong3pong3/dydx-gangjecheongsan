@@ -25,3 +25,4 @@ library TokenInteract {
             "TokenInteract#transfer: Transfer failed"
         );
     }
+}
