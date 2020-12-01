@@ -8,3 +8,5 @@ library MarginState {
         address VAULT;
         // Mapping from positionId -> Position, which stores all the open margin positions.
         mapping (bytes32 => MarginCommon.Position) positions;
+    }
+}
