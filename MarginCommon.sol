@@ -47,3 +47,4 @@ library MarginCommon {
     {
         return Vault(state.VAULT).balances(positionId, state.positions[positionId].heldToken);
     }
+}
